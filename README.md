@@ -1,7 +1,7 @@
 # e_commerce_sales_analysis-Python-
 A comprehensive Python-based project for analyzing e-commerce sales data. This project provides insights into monthly sales trends, product category performance, customer segmentation, and profit analysis. It helps businesses identify key trends and optimize their sales strategies.
 
-**Features**
+**FEATURES**
 
 Monthly Sales Analysis: Identifies the highest and lowest sales months.
 
@@ -13,7 +13,7 @@ Customer Segment Analysis: Examines sales and profit distribution across differe
 
 Sales-to-Profit Ratio: Evaluates profitability in relation to sales revenue.
 
-**Dataset**
+**DATASET**
 
 The analysis is based on an e-commerce sales dataset containing the following key fields:
 
